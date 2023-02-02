@@ -8,14 +8,14 @@
     },
     "title": {
       "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
+        "minLength": 10,
+        "maxLength": 30
       }
     },
     "body": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 70,
+        "maxLength": 400
       }
     },
     "category": {
@@ -49,8 +49,8 @@
     },
     "body": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 15,
+        "maxLength": 170
       }
     },
     "createdAt": {
